@@ -28,10 +28,19 @@ Ultimately we found that our model 1 had the best results for our stakeholder. W
 
 
 # Navigation
-|-----Data Folder - 
-|-----Images Folder
-|-----Final Notebook -
-|-----Presentation.pdf -
-|-----Github.pdf -
-|-----Notebook.pdf -
-|-----README.md -
+|-----Data Folder - a directory of all data used in project
+https://github.com/olamide-h/Phase-2Project/tree/master/data
+
+|-----Images Folder - contains images used in presentatio
+https://github.com/olamide-h/Phase-2Project/tree/master/Images
+
+|-----Presentation.pdf - pdf of Google Slide presentation
+https://github.com/olamide-h/Phase-2Project/blob/master/presentation.pdf
+
+|-----Github.pdf - pdf of Github submission
+https://github.com/olamide-h/Phase-2Project/blob/master/github.pdf
+
+|-----Notebook.pdf - Final jupyter notebook
+https://github.com/olamide-h/Phase-2Project/blob/master/notebook.pdf
+
+|-----README.md - 
