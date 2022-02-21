@@ -28,7 +28,10 @@ Ultimately we found that our model 1 had the best results for our stakeholder. W
 
 
 # Navigation
-Data Folder - 
-Final Notebook
-Presentation.pdf
-README.md
+|-----Data Folder - 
+|-----Images Folder
+|-----Final Notebook -
+|-----Presentation.pdf -
+|-----Github.pdf -
+|-----Notebook.pdf -
+|-----README.md -
