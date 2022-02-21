@@ -16,11 +16,11 @@ Our data was pulled forom the King County House Data: which contains homes built
 We utilized Scikit Learn. 
 
 # Models
-Model_1
+With model 1, we utilized the variables of bedrooms, bathrooms, floors, grade, square feet lving , square feet lot, and year built. With this we got an R-squared of .63. In addition, the root mean squared error is 211289. With this being the metric of error in our model, we demmed this as not a hug error dealing with real estate. Howver we want to explore other models. This model already outpreforms the base.
 
-Model_2
+On model 2 , we explored bathrooms and bedrooms against target price. This brought our r-sqaured down to 2.79. Compared to our previous model, this underperformed. So we decidied to mo on to another model. 
 
-Model_3
+With our third model we got a r-squared of .50. This model accounted for squarefoot living, square foot living-15 and sqaurefoot lot. AN improvement from our previous model but not as good as our first model. 
 
 
 # Conclusion/Reccomendations
